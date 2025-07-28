@@ -1,0 +1,19 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    
+    "build": "npm --prefix ../ run build",
+    "serve": "npm --prefix ../ run start",
+    
+    "emulate": "firebase emulators:start --only functions"
+  },
+  "dependencies": {
+    "firebase-functions": "^4.0.0",
+    "next": "15.4.4"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8"
+  }
+}
