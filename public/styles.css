@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.login-container {
+    max-width: 300px;
+    margin: 50px auto;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+#calendar {
+    max-width: 900px;
+    margin: 40px auto;
+}

@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "nombre": "admin",
+      "contrasena": "1234",
+      "puesto": "Administrador"
+    }
+  ],
+  "events": []
+}
